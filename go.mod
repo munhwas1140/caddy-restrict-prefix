@@ -1,4 +1,4 @@
-module hello.com/restrictprefix
+module github.com/munhwas1140/caddy-restrict-prefix
 
 go 1.22.4
 
